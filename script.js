@@ -1,5 +1,4 @@
-//your JS code here. If required.
-  <script>
+
     let count = 0;
     const counter = document.getElementById("counter");
     const btn = document.getElementById("incrementBtn");
@@ -9,4 +8,3 @@
       count++;
       counter.textContent = count;
     });
-  </script>
